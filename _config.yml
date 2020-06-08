@@ -62,7 +62,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
 
 
-footer:
+#footer:
 
 defaults:
   # _posts
