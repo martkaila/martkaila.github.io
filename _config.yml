@@ -55,6 +55,8 @@ plugins:
   #- jekyll-feed
   - jemoji
   - jekyll-include-cache
+whitelist:
+  - jekyll-feed
 
 author:
   name   : "Martti Kaila"
