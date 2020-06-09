@@ -59,9 +59,9 @@ whitelist:
   - jekyll-feed
 
 author:
-  name   : "Martti Kaila"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : 
+  bio    :
 
 
 #footer:
