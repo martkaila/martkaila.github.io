@@ -59,7 +59,7 @@ whitelist:
   - jekyll-feed
 
 author:
-  name   : "Martti Kaila"
+#  name   : "Martti Kaila"
   avatar : "/assets/images/bio-photo.jpg"
 #  bio    : "asd"
 
