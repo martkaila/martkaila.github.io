@@ -4,8 +4,7 @@ permalink: /research/
 author_profile: true
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
+    image: "/assets/images/bio-photo.jpg"
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
