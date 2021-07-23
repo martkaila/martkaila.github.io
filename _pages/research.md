@@ -15,6 +15,6 @@ layout: single
 #### Work in progress
 **The Effects of Asylum Seeker Reception Center Openings on Crime: Evidence From Finland**
 
-**Disparate Impacts of Job Loss by Parental Income and Implications for Intergenerational Mobility with** [Emily Nix](https://sites.google.com/site/emilyenix/)
+**Disparate Impacts of Job Loss by Parental Income and Implications for Intergenerational Mobility** with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/)
 
-**Inequality in College Applications: Evidence from Three Continents** 
+**Inequality in College Applications: Evidence from Three Continents** with Adam Altjmed, Andres Barrios Fernandez, Aspacia Bizopoulou, Christopher Neilson, Sebastián Otero, and Xiaoyang Ye
