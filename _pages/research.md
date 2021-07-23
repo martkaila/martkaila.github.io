@@ -14,3 +14,5 @@ layout: single
 
 #### Work in progress
 The Effects of Asylum Seeker Reception Center Openings on Crime: Evidence From Finland
+
+Disparate Impacts of Job Loss by Parental Income and Implications for Intergenerational Mobility with [Emily Nix](https://sites.google.com/site/emilyenix/)
