@@ -13,6 +13,8 @@ layout: single
 [**The Effects of Relative School Starting Age on Educational Outcomes in Finland**](/assets/docs/wp84.pdf)  Adapted from master's thesis
 
 #### Work in progress
-The Effects of Asylum Seeker Reception Center Openings on Crime: Evidence From Finland
+**The Effects of Asylum Seeker Reception Center Openings on Crime: Evidence From Finland**
 
-Disparate Impacts of Job Loss by Parental Income and Implications for Intergenerational Mobility with [Emily Nix](https://sites.google.com/site/emilyenix/)
+**Disparate Impacts of Job Loss by Parental Income and Implications for Intergenerational Mobility with** [Emily Nix](https://sites.google.com/site/emilyenix/)
+
+**Inequality in College Applications: Evidence from Three Continents** 
