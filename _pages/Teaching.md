@@ -6,6 +6,6 @@ author_profile: false
 
 Teaching Assistant at University of Helsinki
 
-Intermediate Macroeconomics 2 (2019)   
-Intermediate Microeconomics 2 (2019)  
-Intermediate Microeconomics 1 (2018)  
+Advanced Macroeconomics  (2021)   
+Intermediate Macroeconomics (2019,2021,2022)   
+Intermediate Microeconomics (2018)  
