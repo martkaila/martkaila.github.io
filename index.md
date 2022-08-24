@@ -13,11 +13,24 @@ I am on the 2022-2023 academic job market.
 Email: [martti.kaila@helsinki.fi](mailto: martti.kaila@helsinki.fi)
 
 
-**Job Market Paper:**
+#### **Job Market Paper:**
 **How Do People React to Income-based Fines?**
 
-**Other Work in progress** :
+#### **Other Work in progress** :
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/Early_Career_Shocks_Intergen_Mobility_062022) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/)
+
 <span style="font-size:15px">
   Children's incomes are highly correlated with their parents' incomes. Differences in the first job explain part of this intergenerational persistence in incomes, but little is known about how subsequent labor market shocks might contribute to intergenerational mobility. In this paper, we focus on a consequential early career shock, job loss. We document three results. First, those born to lower-income parents suffer more from job loss. After an exogenous job loss, adult children born to parents in the bottom 20% of the income distribution have double the unemployment compared with those born in the top 20%, with 118% higher earnings losses. Second, this causes the rank-rank correlation, a measure of persistence of incomes, to increase by 34% for those impacted and country-level rank-rank correlations to increase as children age. Third, direct interventions by parents after their child loses a job and earlier life investments both explain our main results.
+</span>
+
+[**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
+
+<span style="font-size:15px">
+  Most criminal justice systems use a "ladder of punishments" that starts with less severe punishments and progress to more severe punishments according to crime severity and criminal history. Using random assignment to judges, we estimate causal impacts of three common punishments on the ladder-fines, probation, and prison-on defendants' criminal and labor market outcomes. We find that fines increase recidivism. However, this increase is concentrated among those committing less severe crimes. Probation decreases recidivism for those committing less severe crimes and first offenders. Neither fines nor probation affect earnings. Prison has a mixed impact, decreasing future charges but also decreasing earnings.
+</span>
+
+**Inequality in College Applications: Evidence from Three Continents** with Adam Altjmed, Andres Barrios Fernandez, Aspacia Bizopoulou, Christopher Neilson, Sebastián Otero, and Xiaoyang Ye
+
+<span style="font-size:15px">
+  This paper combines rich administrative data on college applications from seven very different countries: Brazil, Chile, China, Croatia, Finland, Greece, and Sweden. In all these countries, an important share of colleges select their students through centralized admission systems that only consider students' preferences and academic performance. We use these data to study differences in preferences for colleges and majors by gender and socioeconomic status. We find important differences both across the gender and socioeconomic dimensions. In all countries, female students are more likely to apply to health and education majors. Male students, on the other hand, are more likely to apply to STEM majors. These differences persist along the whole distribution of academic ability. Differences in preferences for fields of study are less prominent when comparing individuals from different socioeconomic backgrounds. However, we do find that conditional on academic ability, students from low-SES households apply to less selective programs. These differences could be important to understand some of the inequeality we observe in labor market trajectories. Finally, in none of the countries we study applicants to education programs come from the top of the ability distribution. However, whereas in most of them applicants trend to come from middle- and low-SES backgrounds, in Finland there is an important share of them who come from a high-SES background
 </span>
