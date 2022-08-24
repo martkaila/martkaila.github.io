@@ -8,8 +8,9 @@ I am a PhD student in economics at the University of Helsinki. My primary field 
 I am on the 2022-2023 academic job market.
 
 Job Market Paper:
+**How Do People React to Income-based Fines?**
 
-[**How Do People React to Income-based Fines?**]
+Work in progress:
 
 **Contact:**  
 Email: [martti.kaila@helsinki.fi](mailto: martti.kaila@helsinki.fi)
