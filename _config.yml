@@ -17,6 +17,7 @@
 title: Martti Kaila
 email: martti.kaila@helsinki.fi
 description: "Martti Kaila's Homepage" # this means to ignore newlines until "baseurl:"
+url                      : https://marttikaila.com
 
 #twitter_username: username
 #github_username: username
