@@ -1,7 +1,7 @@
 ---
 layout: home
 classes: wide
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
