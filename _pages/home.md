@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /
-title: "Welcome"
+title: "About me"
 excerpt: "Martti Kaila"
 redirect_from:
   - /about/
