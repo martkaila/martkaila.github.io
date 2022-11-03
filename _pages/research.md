@@ -15,7 +15,7 @@ This paper studies the impact of income-based criminal punishments on crime. In 
 </span>
 
 
-### Other Working papers
+### Other Working papers:
 
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/Early_Career_Shocks_Intergen_Mobility_062022.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/)
 
@@ -34,7 +34,7 @@ This paper studies the impact of income-based criminal punishments on crime. In 
 <span style="font-size:15px">
 Financial crimes impose significant costs on society. This paper investigates whether prison sentences reduce financial crimes. Using random assignment of judges to identify causal impacts of prison sentences from 2000 to 2018 in Finland, we show that prison reduces defendant reoffending by 42.9 percentage points in the three years following the crime. We also find that a prison sentence reduces the likelihood that a defendant's colleagues commit financial crimes in the future, suggesting important spillover effects of harsher punishments for financial misconduct.
 </span>
-#### Other Work in progress
+#### Other Work in progress:
 
 **Inequality in College Applications: Evidence from Three Continents** with [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
 
