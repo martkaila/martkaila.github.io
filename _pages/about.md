@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /about/
+permalink: /
 title: "Martti Kaila"
 redirect_from:
   - /about/
