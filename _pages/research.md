@@ -36,6 +36,6 @@ Financial crimes impose significant costs on society. This paper investigates wh
 </span>
 #### Other Work in progress
 
-**Inequality in College Applications: Evidence from Three Continents** with [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), (Rigissa Megalokonomou)[http://www.rmegalokonomou.net/], [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
+**Inequality in College Applications: Evidence from Three Continents** with [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
 
 **Misperception of Fines** with  [Daniel Hauser](https://danielnhauser.com/)
