@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
 
 Teaching Assistant at University of Helsinki

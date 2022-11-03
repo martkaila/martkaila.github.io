@@ -1,9 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /
-title: "About me"
-excerpt: "Martti Kaila"
+permalink: /home/
+title: "Welcome"
 redirect_from:
   - /about/
   - /about.html
