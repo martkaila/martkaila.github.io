@@ -2,7 +2,8 @@
 layout: single
 classes: wide
 permalink: /
-title: "Martti Kaila"
+title: "About me"
+excerpt: "Martti Kaila"
 redirect_from:
   - /about/
   - /about.html
