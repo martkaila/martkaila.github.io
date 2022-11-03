@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /
+permalink: /about/
 title: "Martti Kaila"
 redirect_from:
   - /about/
@@ -24,7 +24,7 @@ Email: [martti.kaila@helsinki.fi](mailto: martti.kaila@helsinki.fi)
 This paper studies the impact of income-based criminal punishments on crime. In Finland, speeding tickets become income-dependent if the driver's speed exceeds the speeding limit by more than 20 km/h, leading to a substantial jump in the size of the speeding ticket. Contrary to predictions of a traditional Becker model, individuals do not bunch below the fine hike. Instead, the speeding distributions are smooth at the cutoff. However, I demonstrate that the size of the realized speeding ticket has sizable but short-lived impacts on reoffending ex-post. I use a regression discontinuity design to show that fines that are 200 euros larger decrease reoffending by 20 percent in the following six months. After 12 months, the effect disappears. My empirical results are consistent with an explanation that people operate under information frictions. To illustrate this, I construct a Becker model with misperception and learning that can explain all the empirical findings.
 </span>
 
-#### **Other Work**:
+#### **Other Work:**
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/Early_Career_Shocks_Intergen_Mobility_062022.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/)
 
 <span style="font-size:15px">
