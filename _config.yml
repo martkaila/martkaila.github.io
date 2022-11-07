@@ -59,6 +59,12 @@ plugins:
 whitelist:
   - jekyll-feed
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-VLRJN9YW0D"
+    anonymize_ip: false # default
+
 author:
   name   : "Martti Kaila"
   avatar : "/assets/images/jm.jpg"
