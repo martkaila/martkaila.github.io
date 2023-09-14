@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in economics at the University of Helsinki. My primary field is Labor Economics with a focus on the Economics of Crime and Economics of Education.  
-
-I will join the Adam Smith Business School at University of Glasgow as a Lecturer (Assistant Professor) in Fall 2023
-
+I am a lecturer (assistant professor) at the Adam Smith Business School at the University of Glasgow. I work in Labor Economics with a focus on the Economics of Crime.
 
 **Contact:**  
 Email: [martti.kaila@gmail.com](mailto: martti.kaila@gmail.com)
