@@ -36,4 +36,5 @@ Financial crimes impose significant costs on society. This paper investigates wh
 
 **Inequality in College Applications: Evidence from Three Continents** with [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [José Montalban Castilla](https://sites.google.com/site/josemontalbancastilla/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
 
-**Misperception of Fines** with  [Daniel Hauser](https://danielnhauser.com/)
+**Punishment Thresholds, Perceptions, and Learning. With Daniel Hauser and Martti Kaila** with [Daniel Hauser](https://danielnhauser.com/) and [Xiaogeng Xu](https://sites.google.com/site/xiaogengxueconomics/home) 
+
