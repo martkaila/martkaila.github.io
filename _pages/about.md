@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer (assistant professor) at the Adam Smith Business School at the University of Glasgow. I work in Labor Economics with a focus on the Economics of Crime. 
+I am a lecturer (assistant professor) at the Adam Smith Business School at the University of Glasgow. I work in Labor Economics with a focus on the Economics of Crime. I am also a research affiliate at [CESifo](https://www.cesifo.org/en).
+
 
 
 **Contact:**  
