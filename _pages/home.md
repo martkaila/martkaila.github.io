@@ -11,8 +11,7 @@ redirect_from:
 I am a lecturer (assistant professor) at the Adam Smith Business School at the University of Glasgow. I work in Labor Economics with a focus on the Economics of Crime.
 
 **Contact:**  
-Email: [martti.kaila@gmail.com](mailto: martti.kaila@gmail.com)
-
+Email: martti.kaila(at)glasgow.ac.uk
 
 #### **Research:**
 [**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf)
