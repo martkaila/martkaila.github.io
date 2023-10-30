@@ -13,7 +13,7 @@ I am a lecturer (assistant professor) at the Adam Smith Business School at the U
 
 
 **Contact:**  
-Email: [martti.kaila@gmail.com](mailto: martti.kaila@gmail.com)
+Email: martti.kaila(at)glasgow.ac.uk
 
 
 #### **Research:**
