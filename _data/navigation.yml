@@ -1,9 +1,5 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "CV"
     url: /assets/docs/cv_kaila.pdf
