@@ -17,17 +17,19 @@ I am a lecturer (assistant professor) at the Adam Smith Business School at the U
 Email: martti.kaila(at)glasgow.ac.uk
 
 
-#### **Research:**
-[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf)
-
-<span style="font-size:15px">
-Children's and parent's incomes are highly correlated, yet little is known about how early career shocks contribute to this correlation. This paper focuses on a consequential labor market shock: job loss. We document three new results. First, adult children born into the bottom 20\% of the income distribution have double the unemployment following job loss compared with those from the top 20%, and 154% higher earnings losses. Second, this increases the rank-rank correlation 30% for those impacted. Third, richer parents provide career opportunities to their adult children after job loss, consistent with advantages from wealthy parents persisting well into adulthood.
-</span>
+#### **Publications:**
 
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/KNR_Job_Loss_Intergenerational_Mobility_Revision.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/) <span style="font-size:15px"> *accepted at* ***Journal of Labor Economics*** </span>
 
 <span style="font-size:15px">
   Children's incomes are highly correlated with their parents' incomes. Differences in the first job explain part of this intergenerational persistence in incomes, but little is known about how subsequent labor market shocks might contribute to intergenerational mobility. In this paper, we focus on a consequential early career shock, job loss. We document three results. First, those born to lower-income parents suffer more from job loss. After an exogenous job loss, adult children born to parents in the bottom 20% of the income distribution have double the unemployment compared with those born in the top 20%, with 118% higher earnings losses. Second, this causes the rank-rank correlation, a measure of persistence of incomes, to increase by 34% for those impacted and country-level rank-rank correlations to increase as children age. Third, direct interventions by parents after their child loses a job and earlier life investments both explain our main results.
+</span>
+
+#### **work in progress:**
+[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf)
+
+<span style="font-size:15px">
+Children's and parent's incomes are highly correlated, yet little is known about how early career shocks contribute to this correlation. This paper focuses on a consequential labor market shock: job loss. We document three new results. First, adult children born into the bottom 20\% of the income distribution have double the unemployment following job loss compared with those from the top 20%, and 154% higher earnings losses. Second, this increases the rank-rank correlation 30% for those impacted. Third, richer parents provide career opportunities to their adult children after job loss, consistent with advantages from wealthy parents persisting well into adulthood.
 </span>
 
 [**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
