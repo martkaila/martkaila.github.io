@@ -25,7 +25,7 @@ Email: martti.kaila(at)glasgow.ac.uk
   Children's incomes are highly correlated with their parents' incomes. Differences in the first job explain part of this intergenerational persistence in incomes, but little is known about how subsequent labor market shocks might contribute to intergenerational mobility. In this paper, we focus on a consequential early career shock, job loss. We document three results. First, those born to lower-income parents suffer more from job loss. After an exogenous job loss, adult children born to parents in the bottom 20% of the income distribution have double the unemployment compared with those born in the top 20%, with 118% higher earnings losses. Second, this causes the rank-rank correlation, a measure of persistence of incomes, to increase by 34% for those impacted and country-level rank-rank correlations to increase as children age. Third, direct interventions by parents after their child loses a job and earlier life investments both explain our main results.
 </span>
 
-#### **work in progress:**
+#### **Work in progress:**
 [**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf)
 
 <span style="font-size:15px">
