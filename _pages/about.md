@@ -38,7 +38,7 @@ This paper studies the impact of income-based criminal punishments on crime. In 
 
 <span style="font-size:15px">
 Financial crimes are prolific and impose significant costs on societies. In this paper, we investigate whether prison sentences reduce financial crimes. Using random assignment of judges to identify causal impacts of prison sentences from 2000 to 2018 in Finland, we show that prison reduces defendant re-offending by 42.9 percentage points in the three years following the crime. We also find that a prison sentence reduces colleagues' propensity to commit financial crimes in the future, suggesting important spillover effects of harsher punishments. 
-</span>=
+</span>
 
 [**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
 
