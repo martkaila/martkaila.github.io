@@ -34,16 +34,16 @@ job loss, consistent with advantages from wealthy parents persisting well into a
 This paper studies the impact of income-based criminal punishments on crime. In Finland, speeding tickets become income-dependent if the driver's speed exceeds the speeding limit by more than 20 km/h, leading to a substantial jump in the size of the speeding ticket. Contrary to predictions of a traditional Becker model, individuals do not bunch below the fine hike. Instead, the speeding distributions are smooth at the cutoff. However, I demonstrate that the size of the realized speeding ticket has sizable but short-lived impacts on reoffending ex-post. I use a regression discontinuity design to show that fines that are 200 euros larger decrease reoffending by 15 percent in the following six months. After 12 months, the effect disappears. My empirical results are consistent with an explanation that people operate under information frictions. To illustrate this, I construct a Becker model with misperception and learning that can explain all the empirical findings. 
 </span>
 
+[**Financial Crime and Punishment**](/assets/docs/Financial_Crime_and_Spillovers.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/), [Dave Macdonald](https://sites.google.com/view/dave-mac/home) and [Emily Nix](https://sites.google.com/site/emilyenix/) **Revise & Resubmit: American Economic Journal: Economic Policy** </span> 
+
+<span style="font-size:15px">
+Financial crimes are prolific and impose significant costs on societies. In this paper, we investigate whether prison sentences reduce financial crimes. Using random assignment of judges to identify causal impacts of prison sentences from 2000 to 2018 in Finland, we show that prison reduces defendant re-offending by 42.9 percentage points in the three years following the crime. We also find that a prison sentence reduces colleagues' propensity to commit financial crimes in the future, suggesting important spillover effects of harsher punishments. 
+</span>=
+
 [**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
 
 <span style="font-size:15px">
   Most criminal justice systems use a "ladder of punishments" that starts with less severe punishments and progress to more severe punishments according to crime severity and criminal history. Using random assignment to judges, we estimate causal impacts of three common punishments on the ladder-fines, probation, and prison-on defendants' criminal and labor market outcomes. We find that fines increase recidivism. However, this increase is concentrated among those committing less severe crimes. Probation decreases recidivism for those committing less severe crimes and first offenders. Neither fines nor probation affect earnings. Prison has a mixed impact, decreasing future charges but also decreasing earnings.
-</span>
-
-[**Financial Crime and Punishment**](/assets/docs/Financial_Crime_and_Spillovers.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/), [Dave Macdonald](https://sites.google.com/view/dave-mac/home) and [Emily Nix](https://sites.google.com/site/emilyenix/)
-
-<span style="font-size:15px">
-Financial crimes impose significant costs on society. This paper investigates whether prison sentences reduce financial crimes. Using random assignment of judges to identify causal impacts of prison sentences from 2000 to 2018 in Finland, we show that prison reduces defendant reoffending by 42.9 percentage points in the three years following the crime. We also find that a prison sentence reduces the likelihood that a defendant's colleagues commit financial crimes in the future, suggesting important spillover effects of harsher punishments for financial misconduct.
 </span>
 
 **Inequality in College Applications: Evidence from Three Continents** with [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [José Montalban Castilla](https://sites.google.com/site/josemontalbancastilla/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
