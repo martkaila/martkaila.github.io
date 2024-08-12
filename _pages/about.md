@@ -21,6 +21,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/KNR_Job_Loss_Intergenerational_Mobility_Revision.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/) <span style="font-size:15px"> ***Journal of Labor Economics***, *Vol. 43 Number 4 (October 2025)* </span>
 <span style="font-size:15px">
+
 Children's and parent's incomes are highly correlated, yet little is known about how early career shocks contribute to this correlation. This paper focuses on a consequential labor market shock: job loss. We document three new results. First,
 adult children born into the bottom 20% of the income distribution have double the unemployment following job loss compared with those from the top 20%, and 154% higher earnings losses. Second, this increases the rank-rank correlation 30% for those impacted. Third, richer parents provide career opportunities to their adult children after
 job loss, consistent with advantages from wealthy parents persisting well into adulthood.
@@ -28,7 +29,9 @@ job loss, consistent with advantages from wealthy parents persisting well into a
 
 #### **Work in progress:**
 [**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> Revise and Resubmit ***The Review of Economic Studies***,  </span>
-<span style="font-size:15px"> *Sir Alec Cairncross Prize Runner Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
+<span style="font-size:15px"> 
+
+*Sir Alec Cairncross Prize Runner-Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
 
 <span style="font-size:15px">
 This paper studies the impact of income-based criminal punishments on crime. In Finland, speeding tickets become income-dependent if the driver's speed exceeds the speeding limit by more than 20 km/h, leading to a substantial jump in the size of the speeding ticket. Contrary to predictions of a traditional Becker model, individuals do not bunch below the fine hike. Instead, the speeding distributions are smooth at the cutoff. However, I demonstrate that the size of the realized speeding ticket has sizable but short-lived impacts on reoffending ex-post. I use a regression discontinuity design to show that fines that are 200 euros larger decrease reoffending by 15 percent in the following six months. After 12 months, the effect disappears. My empirical results are consistent with an explanation that people operate under information frictions. To illustrate this, I construct a Becker model with misperception and learning that can explain all the empirical findings. 
