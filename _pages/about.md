@@ -28,7 +28,7 @@ job loss, consistent with advantages from wealthy parents persisting well into a
 </span>
 
 #### **Work in progress:**
-[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Revise and Resubmit The Review of Economic Studies**  </span>
+[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Revise & Resubmit The Review of Economic Studies**  </span>
 <span style="font-size:15px">,  *Sir Alec Cairncross Prize Runner-Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
 
 <span style="font-size:15px">
