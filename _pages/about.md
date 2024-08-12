@@ -19,7 +19,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 #### **Publications:**
 
-[**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/KNR_Job_Loss_Intergenerational_Mobility_Revision.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/) <span style="font-size:15px"> ***Journal of Labor Economics***, *Vol. 43 Number 4 (October 2025)* </span>
+[**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/KNR_Job_Loss_Intergenerational_Mobility_Revision.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/) <span style="font-size:15px"> **Journal of Labor Economics**, *Vol. 43 Number 4 (October 2025)* </span>
 <span style="font-size:15px">
 
 Children's and parent's incomes are highly correlated, yet little is known about how early career shocks contribute to this correlation. This paper focuses on a consequential labor market shock: job loss. We document three new results. First,
@@ -28,7 +28,7 @@ job loss, consistent with advantages from wealthy parents persisting well into a
 </span>
 
 #### **Work in progress:**
-[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> Revise and Resubmit ***The Review of Economic Studies***  </span>
+[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Revise and Resubmit The Review of Economic Studies**  </span>
 <span style="font-size:15px">,  *Sir Alec Cairncross Prize Runner-Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
 
 <span style="font-size:15px">
