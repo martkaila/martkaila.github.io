@@ -37,6 +37,7 @@ This paper studies the impact of income-based criminal punishments on crime. In 
 
 [**Punishing Financial Crimes: The Impact of Prison Sentences on Defendants and Their Colleagues**](/assets/docs/Financial_Crime_and_Spillovers.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/), [Dave Macdonald](https://sites.google.com/view/dave-mac/home) and [Emily Nix](https://sites.google.com/site/emilyenix/) <span style="font-size:15px"> **Revise & Resubmit American Economic Journal: Economic Policy** </span> 
 
+
 <span style="font-size:15px">
 Financial crimes are prolific and impose significant costs on societies. In this paper, we investigate whether prison sentences reduce financial crimes. Using random assignment of judges to identify causal impacts of prison sentences from 2000 to 2018 in Finland, we show that prison reduces defendant re-offending by 42.9 percentage points in the three years following the crime. We also find that a prison sentence reduces colleagues' propensity to commit financial crimes in the future, suggesting important spillover effects of harsher punishments. 
 </span>
