@@ -47,7 +47,7 @@ Financial crimes are prolific and impose significant costs on societies. In this
 </span>
 
 
-**The STEM Major Gender Gap: Evidence from Coordinated College Application Platforms Across Five Continents** with (/assets/docs/00_inequality_in_college_applicationns_three_continents.pdf) [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [José Montalban Castilla](https://sites.google.com/site/josemontalbancastilla/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
+[**The STEM Major Gender Gap: Evidence from Coordinated College Application Platforms Across Five Continents**](/assets/docs/00_inequality_in_college_applicationns_three_continents.pdf) with  [Adam Altjmed](https://adamaltmejd.se/), [Andres Barrios Fernandez](https://andresbarriosf.github.io/), [Aspacia Bizopoulou](https://sites.google.com/site/aspasiabizopoulou/home), [Rigissa Megalokonomou](http://www.rmegalokonomou.net/), [José Montalban Castilla](https://sites.google.com/site/josemontalbancastilla/), [Christopher Neilson](https://christopherneilson.github.io/), [Sebastián Otero](https://sebotero.webflow.io/), and [Xiaoyang Ye](https://xiaoyangye.github.io/)
 
 **Punishment Thresholds, Perceptions, and Learning** with [Daniel Hauser](https://danielnhauser.com/) and [Xiaogeng Xu](https://sites.google.com/site/xiaogengxueconomics/home) 
 
