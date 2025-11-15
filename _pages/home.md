@@ -31,6 +31,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 [**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
 
+**The Impacts of Guaranteed Basic Income on Crime Perpetration and Victimization** with [Mikko Aaltonen](https://uefconnect.uef.fi/en/mikko.aaltonen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
 
 **Punishment Thresholds, Perceptions, and Learning** with [Daniel Hauser](https://danielnhauser.com/) and [Xiaogeng Xu](https://sites.google.com/site/xiaogengxueconomics/home) 
 
