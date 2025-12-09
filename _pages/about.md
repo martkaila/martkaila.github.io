@@ -24,7 +24,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 #### **Work in progress:**
 
-[[**The Impacts of Guaranteed Basic Income on Crime Perpetration and Victimization**](https://www.nber.org/papers/w34547) with [Mikko Aaltonen](https://uefconnect.uef.fi/en/mikko.aaltonen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)](https://www.nber.org/papers/w34547)
+[[**The Impacts of Guaranteed Basic Income on Crime Perpetration and Victimization**](https://www.nber.org/papers/w34547) with [Mikko Aaltonen](https://uefconnect.uef.fi/en/mikko.aaltonen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)]
 
 [**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Revise & Resubmit The Review of Economic Studies**  </span>
 <span style="font-size:15px">,  *Sir Alec Cairncross Prize Runner-Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
