@@ -38,8 +38,3 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 [**The Impact of an Early Career Shock on Intergenerational Mobility**](/assets/docs/KNR_Job_Loss_Intergenerational_Mobility_Revision.pdf) with [Emily Nix](https://sites.google.com/site/emilyenix/) and [Krista Riukula](https://sites.google.com/view/kristariukula/) <span style="font-size:15px"> **Journal of Labor Economics**, *Vol. 43 Number 4 (October 2025)* </span>
 
-
-
-
-**Punishment Thresholds, Perceptions, and Learning** with [Daniel Hauser](https://danielnhauser.com/) and [Xiaogeng Xu](https://sites.google.com/site/xiaogengxueconomics/home) 
-
