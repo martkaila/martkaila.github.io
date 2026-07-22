@@ -31,7 +31,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 #### **Publications:**
 
-[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Conditionally accepted The Review of Economic Studies**  </span>
+[**How Do People React to Income-Based Fines? Evidence from Speeding Tickets Discontinuities**](/assets/docs/jmp_kaila.pdf) <span style="font-size:15px"> **Accepted The Review of Economic Studies**  </span>
 <span style="font-size:15px">,  *Sir Alec Cairncross Prize Runner-Up at the 2024 Annual Conference of the Scottish Economic Society* </span> 
 
 [**Punishing Financial Crimes: The Impact of Prison Sentences on Defendants and Their Colleagues**](/assets/docs/Financial_Crime_and_Spillovers.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/), [Dave Macdonald](https://sites.google.com/view/dave-mac/home) and [Emily Nix](https://sites.google.com/site/emilyenix/) <span style="font-size:15px"> **Forthcoming American Economic Journal: Economic Policy** </span> 
