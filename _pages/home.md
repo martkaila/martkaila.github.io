@@ -22,7 +22,7 @@ Email: martti.kaila(at)glasgow.ac.uk
 
 [**The Impacts of Guaranteed Basic Income on Crime Perpetration and Victimization**](/assets/docs/basic_income_crime.pdf) with [Mikko Aaltonen](https://uefconnect.uef.fi/en/mikko.aaltonen/) and [Emily Nix](https://sites.google.com/site/emilyenix/) <span style="font-size:15px"> **Accepted Journal of Labor Economics**  </span>
 
-[**The Global Gender Gap in STEM Applications: Pipeline vs. Choice**](/assets/docs/stem_gap_dp.pdf) with Isaac Ahimbisibwe, Adam Altjmed, Georgy Artemov, Aspasia Bizopoulou, Martti Kaila, Jin-Tan Liu, Rigissa Megalokonomou, José Montalbán, Christopher Neilson, Jintao Sun, Sebastián Otero, and Xiaoyang Ye
+[**The Global Gender Gap in STEM Applications: Pipeline vs. Choice**](/assets/docs/stem_gap_dp.pdf) with Isaac Ahimbisibwe, Adam Altjmed, Georgy Artemov, Aspasia Bizopoulou, Martti Kaila, Jin-Tan Liu, Rigissa Megalokonomou, José Montalbán, Christopher Neilson, Jintao Sun, Sebastián Otero, and Xiaoyang Ye **R&R Economics of Education Review**
 
 [**The Crime Ladder: Estimating the Impact of Different Punishments on Defendant Outcomes**](/assets/docs/ladder.pdf) with [Kristiina Huttunen](https://sites.google.com/site/krhuttunen/) and [Emily Nix](https://sites.google.com/site/emilyenix/)
 
